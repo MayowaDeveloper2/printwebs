@@ -33,8 +33,8 @@ const bebas_neue_init = Bebas_Neue({
 })
 
 export const metadata: Metadata = {
-  title: "Avant Garde Ministries",
-  description: "Raising an army of a wealthy kingdom-minded people!",
+  title: "Printing Website",
+  description: "printing is our own",
 };
 
 export default function RootLayout({
